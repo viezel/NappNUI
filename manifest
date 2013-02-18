@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Mads Møller
+license: MIT
+copyright: Napp ApS
+
+
+# these should not be edited
+name: nappnui
+moduleid: dk.napp.nui
+guid: 9b5e325b-d13d-416d-b2c8-76890a30142d
+platform: iphone
+minsdk: 2.1.4.GA
